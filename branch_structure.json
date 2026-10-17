@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-75-add-a-shared-useapiresource-hook-to-remove",
+    "fix/issue-76-add-a-rejection-flow-test-for-the-approval",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-75-add-a-shared-useapiresource-hook-to-remove": "main",
+    "fix/issue-76-add-a-rejection-flow-test-for-the-approval": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-75-add-a-shared-useapiresource-hook-to-remove",
+    "fix/issue-76-add-a-rejection-flow-test-for-the-approval",
+    "origin"
+  ]
+}
